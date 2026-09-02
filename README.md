@@ -1,7 +1,7 @@
 Water Management Log
 C++ console application for tracking household water consumption.
 
-Features
+## Features
 
 Persistent data storage
 Consumption statistics
@@ -11,7 +11,7 @@ Chronological sorting
 Entry management
 Water-management recommendations
 
-Technical Concepts
+## Technical Concepts
 
 C++
 OOP
@@ -21,14 +21,14 @@ std::sort
 Lambda expressions
 Input validation
 
-How to Run
+## How to Run
 
 Clone repository
 Open solution in Visual Studio
 Build
 Run
 
-Project Structure
+## Project Structure
 
 main.cpp
 WaterLog.h / WaterLog.cpp
