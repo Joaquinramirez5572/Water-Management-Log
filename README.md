@@ -1,3 +1,4 @@
+## About
 Water Management Log
 C++ console application for tracking household water consumption.
 
