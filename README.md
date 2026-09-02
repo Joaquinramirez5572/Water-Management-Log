@@ -1,1 +1,1 @@
-[Ramirez, Joaquin - 2436 Software Design Document PP3.pdf](https://github.com/user-attachments/files/31720621/Ramirez.Joaquin.-.2436.Software.Design.Document.PP3.pdf)
+This document details the program, test cases, and overall design architecture: [Ramirez, Joaquin - 2436 Software Design Document PP3.pdf](https://github.com/user-attachments/files/31720621/Ramirez.Joaquin.-.2436.Software.Design.Document.PP3.pdf)
