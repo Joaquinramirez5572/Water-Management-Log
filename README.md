@@ -1,6 +1,6 @@
 # Water Management Log
 
-A C++ console application for tracking household water usage and identifying patterns over time. The program helps users log daily consumption, review totals, and support water conservation habits.
+A C++ console application for tracking household water usage and identifying patterns over time. The program helps users log daily consumption, review totals, and support user water conservation habits.
 
 ## Overview
 
