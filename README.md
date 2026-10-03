@@ -13,7 +13,7 @@ This project demonstrates object-oriented programming, file persistence, and pra
 
 ## Why This Project Matters
 
-Water usage often goes untracked, making it hard to notice wasteful habits. This application gives users a structured way to log water use and review patterns so they can reduce unnecessary consumption.
+Water usage often goes untracked, making it hard to notice wasteful habits. This application gives users a structured way to log water use and review patterns so they can reduce unnecessary consumption. Furthermore, since some of my research is in atmospheric physics, this topic resonates with me heavily.
 
 ## Features
 
