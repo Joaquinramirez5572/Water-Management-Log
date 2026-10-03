@@ -37,4 +37,5 @@ WaterEntry.h / WaterEntry.cpp
 data.txt
 
 ## Software Design Document
-This document details the program, test cases, and overall design architecture: [Ramirez, Joaquin - Software Design Document Water management Log](https://github.com/user-attachments/files/31720621/Ramirez.Jo[...])
+The full design document is included in this repository:
+[Ramirez, Joaquin - Software Design Document Water Log](./Ramirez%20Joaquin%20-%20Software%20Design%20Document%20Water%20Log.pdf)
