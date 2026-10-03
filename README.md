@@ -86,7 +86,3 @@ The program includes validation checks to improve reliability and reduce user in
 The full design document for this project is available in the repository:
 
 [Ramirez, Joaquin - Software Design Document Water Log](./Ramirez%20Joaquin%20-%20Software%20Design%20Document%20Water%20Log.pdf)
-
-## Conclusion
-
-Water Management Log is a practical C++ project that combines software engineering fundamentals with a real-world sustainability use case. It reflects experience in object-oriented design, data management, validation, and console application development, making it a solid project for a software engineering portfolio.
