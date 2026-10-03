@@ -1,51 +1,42 @@
 # Water Management Log
 
-A C++ console application for tracking household water consumption, identifying usage trends, and encouraging sustainable water habits. The project is designed to help users log daily water usage, monitor consumption over time, and maintain conservation goals through persistent storage and simple data analysis.
+A C++ console application for tracking household water usage and identifying patterns over time. The program helps users log daily consumption, review totals, and support water conservation habits.
 
 ## Overview
 
-Water Management Log is a desktop application built in C++ that allows users to:
-- record water usage entries
-- track daily and cumulative consumption
-- review usage patterns and statistics
-- set conservation goals
-- validate input to reduce data errors
-- sort entries chronologically for better reporting
+- Record water usage entries
+- Track cumulative consumption over time
+- View usage summaries and trends
+- Set water conservation goals
 
-This project demonstrates object-oriented programming, file-based persistence, and practical software design for a utility application.
+This project demonstrates object-oriented programming, file persistence, and practical utility application design.
 
 ## Why This Project Matters
 
-Household water usage often goes untracked, which makes it difficult to identify wasteful habits or compare consumption over time. This application gives users a structured way to log water data and understand usage patterns, helping support more efficient resource management and conservation.
+Water usage often goes untracked, making it hard to notice wasteful habits. This application gives users a structured way to log water use and review patterns so they can reduce unnecessary consumption.
 
 ## Features
 
-- Persistent data storage using file I/O
-- Water consumption statistics and summaries
-- Conservation goal tracking
-- Input validation for safer data entry
-- Chronological sorting of log entries
-- Entry management for adding, viewing, and organizing records
-- Practical water-saving recommendations based on usage patterns
+- Persistent storage using file I/O
+- Water usage summaries and totals
+- Goal tracking for conservation
+- Input validation and chronological sorting
 
 ## Technical Stack
 
 - Language: C++
 - Programming Paradigm: Object-oriented programming
-- Core Concepts: std::vector, std::sort, lambda expressions, file handling
-- Design Approach: modular classes with separated responsibilities
+- Core Concepts: vectors, sorting, file handling, input validation
+- Design Approach: modular classes with clear responsibilities
 
 ## Application Design
 
-The application is organized around a small set of core components:
+- WaterLog: manages the main log and actions
+- WaterEntry: stores one water usage entry
+- Persistence Layer: saves and reads data from a file
+- Reporting Logic: calculates totals and shows trends
 
-- WaterLog: manages the overall log and user operations
-- WaterEntry: represents an individual water usage record
-- Data persistence layer: saves and reads log data from a local file
-- Validation logic: ensures inputs are accurate and consistent
-- Sorting and reporting logic: organizes entries and computes statistics
-
-This structure keeps the program maintainable and demonstrates clean separation of responsibilities, which is important in object-oriented software design.
+This design keeps the application maintainable and easier to extend with new features.
 
 ## Project Structure
 
@@ -67,19 +58,18 @@ Water-Management-Log/
 2. Open the project in Visual Studio.
 3. Build the solution.
 4. Run the application.
-5. Enter and track water usage entries through the console interface.
+5. Use the console menu to log and review water data.
 
 ## Example Workflow
 
 - Add a new water usage entry
-- Include the date, amount, and relevant notes
 - View total consumption statistics
-- Review trends over time
+- Review usage patterns over time
 - Adjust habits to meet conservation goals
 
 ## Testing and Validation
 
-The program includes validation checks to improve reliability and reduce user input errors. It also supports data persistence so records remain available across runs.
+The program includes validation checks to reduce input errors and confirm that saved records remain available across runs. It also supports accurate summaries and sorting so reported trends are consistent.
 
 ## Software Design Document
 
