@@ -20,21 +20,21 @@ Water usage often goes untracked, making it hard to notice wasteful habits. This
 - Persistent storage using file I/O
 - Water usage summaries and totals
 - Goal tracking for conservation
-- Input validation and chronological sorting
+- Class diagrams, pseudocode, and test cases to validate program behavior
 
 ## Technical Stack
 
 - Language: C++
 - Programming Paradigm: Object-oriented programming
 - Core Concepts: vectors, sorting, file handling, input validation
-- Design Approach: modular classes with clear responsibilities
+- Design Approach: WaterEntry and WaterLog classes with modular responsibilities
 
 ## Application Design
 
 - WaterLog: manages the main log and actions
 - WaterEntry: stores one water usage entry
+- Design Artifacts: class diagrams, pseudocode, and flowcharts document program logic
 - Persistence Layer: saves and reads data from a file
-- Reporting Logic: calculates totals and shows trends
 
 This design keeps the application maintainable and easier to extend with new features.
 
